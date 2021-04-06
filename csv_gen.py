@@ -1,9 +1,12 @@
 import pandas as pd
 import json
+import os
 
 #yt_key="AIzaSyDtdRxtBGzTg1muYuyafE8jVe3GJdDOllk"
 
-yt_key="AIzaSyArlqkjBGy9KTW2TjT0qsCHzx0-dp1UJnw"
+#yt_key="AIzaSyArlqkjBGy9KTW2TjT0qsCHzx0-dp1UJnw"
+
+yt_key = os.env["yt_key"]
 
 #url = "https://www.googleapis.com/youtube/v3/channels?forUsername="+forUsername+"&key="+yt_key
 #forUsername = "PyDataTV"

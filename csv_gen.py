@@ -6,7 +6,7 @@ import os
 
 #yt_key="AIzaSyArlqkjBGy9KTW2TjT0qsCHzx0-dp1UJnw"
 
-yt_key = os.env["yt_key"]
+yt_key = os.env["YT_KEY"]
 
 #url = "https://www.googleapis.com/youtube/v3/channels?forUsername="+forUsername+"&key="+yt_key
 #forUsername = "PyDataTV"

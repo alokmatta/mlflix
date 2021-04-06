@@ -28,6 +28,8 @@ jobs:
         run: |
           pip install pandas
           python csv_gen.py
+          git config --global user.email "alokmatta@gmail.com"
+          git config --global user.name "Alok"
           git add .
           git commit -m "Updating video.csv"
       - name: Push changes # push the output folder to your repo

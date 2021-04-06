@@ -2,9 +2,6 @@ import pandas as pd
 import json
 import os
 
-#yt_key="AIzaSyDtdRxtBGzTg1muYuyafE8jVe3GJdDOllk"
-
-#yt_key="AIzaSyArlqkjBGy9KTW2TjT0qsCHzx0-dp1UJnw"
 
 yt_key = os.environ["YT_KEY"]
 
@@ -18,7 +15,7 @@ channelDict = {}
 #channelDict["PyData"] = "UCOjD18EJYcsBog4IozkF_7w"
 #channelDict["PyCascades"] = "UCtWI06j1EADmEOGj2iJhSyA"
 channelDict["PyDataPune"] = "UCEnagt088yX-ruTalg-GJeQ"
-# channelDict["PyData MCR"] = "UCTCV2vonJgaQVb8AdMgdvCA"
+channelDict["PyData MCR"] = "UCTCV2vonJgaQVb8AdMgdvCA"
 # channelDict["PyLondinium"] = "UCTCV2vonJgaQVb8AdMgdvCA"
 # channelDict["PyData Montreal"] = "UC2d_azMgPLw_8JzgbpNb2oQ"
 # channelDict["Deepmind"] = "UCP7jMXSY2xbc3KCAE0MHQ-A"

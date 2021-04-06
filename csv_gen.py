@@ -25,18 +25,17 @@ channelDict["PyData MCR"] = "UCTCV2vonJgaQVb8AdMgdvCA"
 # channelDict["London ML"] = "UCpwC9QC0lWaEJ85MoMRFvrA"
 # channelDict["Yannic Kilcher"] = "UCZHmQk67mSJgfCCTn7xBfew"
 
+df_list = []
 
-for name, channel_id in channelDict.items():    
+for name, channel_id in channelDict.items():
 
-        url = "https://www.googleapis.com/youtube/v3/search?key="+yt_key+"&channelId="+channel_id+"&part=snippet,id&order=date&maxResults=5&type=video"
-        #print(url)
-        print("fetching channel", name)
-        from urllib.request import urlopen
-        json_str = urlopen(url).read()
-        
-        if 'df' in locals():
-          df.append(pd.json_normalize(json.loads(json_str)["items"]))
-        else:
-          df = pd.json_normalize(json.loads(json_str)["items"])
-        
-        df.to_csv("videos.csv")
+    url = "https://www.googleapis.com/youtube/v3/search?key="+yt_key + \
+        "&channelId="+channel_id+"&part=snippet,id&order=date&maxResults=5&type=video"
+    # print(url)
+    print("fetching channel", name)
+    from urllib.request import urlopen
+    json_str = urlopen(url).read()
+    df_list.append(pd.json_normalize(json.loads(json_str)["items"]))
+
+df = pd.concat(df_list)
+df.to_csv("videos.csv")

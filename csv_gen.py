@@ -30,6 +30,7 @@ for name, channel_id in channelDict.items():
 
         url = "https://www.googleapis.com/youtube/v3/search?key="+yt_key+"&channelId="+channel_id+"&part=snippet,id&order=date&maxResults=5&type=video"
         #print(url)
+        print("fetching channel", name)
         from urllib.request import urlopen
         json_str = urlopen(url).read()
         

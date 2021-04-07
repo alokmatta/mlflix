@@ -7,14 +7,14 @@ import json
 import base64
 from urllib.request import urlopen
 from PIL import Image
+import random
 
 st.set_page_config(
-    layout="wide", page_title="MLFix & Chill!", initial_sidebar_state="expanded"
+    layout="wide", page_title="MLFix & Chill!"
 )
 
 """
 # MLFlix & Chill!
-
 """
 
 
@@ -26,7 +26,9 @@ col1, col2 = st.beta_columns(2)
 #col1.subheader('Col1')
 #col1.subheader('Col2')
 
-for name in df_all["snippet.channelTitle"].unique():
+names = df_all["snippet.channelTitle"].unique()
+
+for name in random.sample(list(names), 5):
     with st.beta_expander(name):
         df = df_all[df_all["snippet.channelTitle"]==name]
         df.reset_index(inplace=True)
@@ -36,7 +38,15 @@ for name in df_all["snippet.channelTitle"].unique():
 
             #img = Image.open(urlopen(url))
             #name =st.text(df["snippet.channelTitle"][i])
-            st.text(df["snippet.description"][i])
+            #st.text(df["snippet.description"][i])
+            description = df["snippet.description"][i]
+            split = " "
+            des_list= description.split(split)
+            if(len(des_list)>20):
+              description= split.join(des_list[0:13])
+
             link = url = "http://www.youtube.com/watch?v="+df["id.videoId"][i]
-            html = f"<a href='{link}'><img src='data:image/png;base64,{image_base64}'></a>"
+
+      
+            html = f"<a href='{link}'><img src='data:image/png;base64,{image_base64}'></a>{description}"
             st.markdown(html, unsafe_allow_html=True)

@@ -24,6 +24,37 @@ channelDict["NLPXing"] = "UCuGC1JusVvbOGa__qMtH3QA"
 channelDict["W&B"] = "UCBp3w4DCEC64FZr4k9ROxig"
 channelDict["London ML"] = "UCpwC9QC0lWaEJ85MoMRFvrA"
 channelDict["Yannic Kilcher"] = "UCZHmQk67mSJgfCCTn7xBfew"
+channelDict["ML Dojo"] = "UCXvHuBMbgJw67i5vrMBBobA"
+channelDict["ML OPS"] = "UCG6qpjVnBTTT8wLGBygANOQ"
+channelDict["TinyML"] = "UC9iWqvsWjhowkHWVJquHwkg"
+channelDict["Usha"] = "UChr1xW6wSq4sxUgAlgv9PZQ"
+channelDict["AIEveryone"] = "UCIpPdErVmb3sfCT6S8U3BwA"
+channelDict["Wildlabs"] = "UCrxw8iiyFalKHFNAhZYCAYA"
+channelDict["Bhavesh"] = "UC8ofcOdHNINiPrBA9D59Vaw"
+channelDict["FSDL"] = "UCVchfoB65aVtQiDITbGq2LQ"
+channelDict["Zachary Mueller"] = "UCmKoQOD8uBqsRS8XDdSgrlQ"
+channelDict["Deeplearning"] = "UCcIXc5mJsHVYTZR1maL5l9w"
+channelDict["ECCV"] = "UCKfreQYtL6GZSj9Zq5FRQGA"
+channelDict["Daniel Bourke"] = "UCr8O8l5cCX85Oem1d18EezQ"
+channelDict["AI Guy"] = "UCrydcKaojc44XnuXrfhlV8Q"
+channelDict["MLSS"] = "UCBOgpkDhQuYeVVjuzS5Wtxw"
+channelDict["Matroid"] = "UCR85FcguqcxLQ7XEg1byAtQ"
+channelDict["Saturn Cloud"] = "UCADT4bgaV94IVkpABEY7iiA"
+channelDict["Altdeep"] = "UCopQd3S1UGsEwqs5Dy2kQwg"
+channelDict["Robert Monarch"] = "UCjK2LOJJy9gomvzcfUFgdDA"
+channelDict["CMU AI"] = "UCLh3OUmBGe4wPyVZiI771ng"
+
+
+
+
+
+
+
+
+
+
+
+
 
 df_list = []
 

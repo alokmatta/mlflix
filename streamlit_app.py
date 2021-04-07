@@ -44,7 +44,7 @@ for name in random.sample(list(names), 5):
                 split = " "
                 des_list= description.split(split)
                 if(len(des_list)>20):
-                description= split.join(des_list[0:13])
+                  description= split.join(des_list[0:13])
 
             link = url = "http://www.youtube.com/watch?v="+df["id.videoId"][i]
 

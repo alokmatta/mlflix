@@ -40,7 +40,7 @@ for name in random.sample(list(names), 5):
             #name =st.text(df["snippet.channelTitle"][i])
             #st.text(df["snippet.description"][i])
             description = df["snippet.description"][i]
-            if(description):
+            if(description!=""):
                 split = " "
                 des_list= description.split(split)
                 if(len(des_list)>20):

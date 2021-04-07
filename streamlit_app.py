@@ -8,6 +8,7 @@ import base64
 from urllib.request import urlopen
 from PIL import Image
 import random
+import numpy as np
 
 st.set_page_config(
     layout="wide", page_title="MLFix & Chill!"
@@ -40,14 +41,18 @@ for name in random.sample(list(names), 5):
             #name =st.text(df["snippet.channelTitle"][i])
             #st.text(df["snippet.description"][i])
             description = df["snippet.description"][i]
-            if(description!=""):
+        
+            if(len(str(description))>3):
+                print("came here")
+                print(type(description))
+                print(len(str(description)))
                 split = " "
                 des_list= description.split(split)
                 if(len(des_list)>20):
                   description= split.join(des_list[0:13])
-
+            elif(np.isnan(float(description))):
+                description = ""
+            
             link = url = "http://www.youtube.com/watch?v="+df["id.videoId"][i]
-
-      
             html = f"<a href='{link}'><img src='data:image/png;base64,{image_base64}'></a>{description}"
             st.markdown(html, unsafe_allow_html=True)

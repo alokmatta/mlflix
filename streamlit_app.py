@@ -40,10 +40,11 @@ for name in random.sample(list(names), 5):
             #name =st.text(df["snippet.channelTitle"][i])
             #st.text(df["snippet.description"][i])
             description = df["snippet.description"][i]
-            split = " "
-            des_list= description.split(split)
-            if(len(des_list)>20):
-              description= split.join(des_list[0:13])
+            if(description):
+                split = " "
+                des_list= description.split(split)
+                if(len(des_list)>20):
+                description= split.join(des_list[0:13])
 
             link = url = "http://www.youtube.com/watch?v="+df["id.videoId"][i]
 

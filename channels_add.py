@@ -1,6 +1,7 @@
-import pandas
+import pandas as pd
 import json
 import os
+from urllib.request import urlopen
 
 
 yt_key = os.environ["YT_KEY"]
@@ -20,6 +21,7 @@ json_str = urlopen(url).read()
 channel_id=json.loads(json_str)["items"][0]["id"]["channelId"]
 name=json.loads(json_str)["items"][0]["snippet"]["channelTitle"]
 new_row = {'name':name, 'channel_id':channel_id}
+print("adding new row", new_row)
 #append row to the dataframe
 df = pd.read_csv("channels.csv")
 df = df.append(new_row, ignore_index=True)

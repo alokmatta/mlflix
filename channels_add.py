@@ -2,9 +2,28 @@ import pandas as pd
 import json
 import os
 from urllib.request import urlopen
-
+import re
 
 yt_key = os.environ["YT_KEY"]
+
+def url_extract(text):
+
+  return(re.search("(?P<url>https?://[^\s]+)", text).group("url"))
+
+def url_type(url):
+    type = "channel"
+    if url.find("/user/") != -1:
+      type = "user"
+    if url.find("/c/") != -1:
+      type = "custom"
+
+
+    return type
+
+df = pd.read_csv("links.txt", header=None, names=["text"])
+df["url"] = df.text.apply(url_extract)
+df["type"] = df.url.apply(url_type)
+df.to_csv("links.csv", index=False)
 
 #forUsername=metrostarsystems
 #url = "https://www.googleapis.com/youtube/v3/channels?forUsername="+forUsername+"&key="+yt_key

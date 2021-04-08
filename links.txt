@@ -1,0 +1,302 @@
+PyData - https://www.youtube.com/user/PyDataTV/videos
+PyData Montreal - https://youtube.com/channel/UC2d_azMgPLw_8JzgbpNb2oQ
+PyData MCR - https://www.youtube.com/channel/UCTCV2vonJgaQVb8AdMgdvCA/videos 
+PyData DC (MetroStar systems)- https://youtube.com/user/metrostarsystems
+PyData Pune - https://www.youtube.com/channel/UCEnagt088yX-ruTalg-GJeQ/videos 
+Cory Schafer - https://www.youtube.com/c/Coreyms/videos
+Talk Python to me - https://www.youtube.com/c/Talkpythontomepodcast/videos
+Pycon Sweden - https://www.youtube.com/c/PyConSweden/videos 
+Cheukting Ho - https://www.youtube.com/channel/UCie_J9IohYO4hSsz4O2mDfQ/videos
+Python Engineer - https://www.youtube.com/c/PythonEngineer/videos
+Python Programmer - https://www.youtube.com/c/FlickThrough/videos
+Python Talks - https://www.youtube.com/c/Talkpythontomepodcast/videos
+Python basics - https://www.youtube.com/c/PythonBasics/videos
+EuroPython - https://www.youtube.com/user/PythonItalia/playlists
+Europython conference - https://www.youtube.com/c/EuroPythonConference/playlists 
+EuroPython 2020 - https://www.youtube.com/watch?v=RVK7rsFEfpc&list=PL8uoeex94UhG33fVP7GZEo06gOHlhb0hk
+Scipy 2020 - https://www.youtube.com/user/EnthoughtMedia/playlists
+PyCon 2015- https://www.youtube.com/c/pycon2015 
+PyCon 2016 - https://www.youtube.com/c/pycon2016 
+PyCon 2017 - https://www.youtube.com/c/pycon2017/videos
+pyCon 2018 - https://www.youtube.com/c/PyCon2018 
+PyCon 2019 - https://www.youtube.com/c/PyCon2019 
+PyCon 2020 - https://www.youtube.com/c/PyCon2020/videos
+PyCon UK - https://www.youtube.com/c/PyconUKSoc/videos 
+PyOhio - https://www.youtube.com/c/PyOhio/videos
+PyConAU - https://www.youtube.com/c/PyConAU/playlists
+PyLondinium - https://www.youtube.com/channel/UCHh7vOesookNhYvupCCcJxA/videos
+PyBay/SFPython - https://www.youtube.com/c/SFPython/videos  
+Python Barcelona - https://youtube.com/c/PythonBarcelona
+PyConDE - https://youtube.com/c/PyConDE
+Sebastian Mathot - https://youtube.com/c/SebastiaanMath%C3%B4t
+PyCascades - https://youtube.com/c/PyCascades
+Real Python - https://youtube.com/c/realpython
+Julia Language - https://youtube.com/c/TheJuliaLanguage
+Remi Vezy - https://www.youtube.com/c/remivezy/videos
+Alfredo Canziani - NYU - https://www.youtube.com/c/AlfredoCanziani/videos
+Stanford NLP https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
+Siggraph now - https://www.youtube.com/watch?v=gfY2LfRfE1E&list=PLUPhVMQuDB_b2kcOooEduedthcBH53mvC
+Deepmind UCL - https://www.youtube.com/watch?v=7R52wiUgxZI&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF
+Amazon MLU - https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/playlists
+Cornell - https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS
+Oxford - https://www.youtube.com/watch?v=wYAuWYrSIu0&feature=youtu.be 
+MIT - https://www.youtube.com/playlist?list=PLxymR0ZPfMmV-vGtvhvTeWHIcnh-bTjDI
+Crash Course (maths/stats/AI) - https://www.youtube.com/user/crashcourse/playlists 
+Deepmind - https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A/videos
+Chris MacMormick BERT - https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6
+AI Core - https://www.youtube.com/channel/UCbPDqVPqfu_VyNiy7v1YSgg/videos
+AICamp - https://www.youtube.com/channel/UCj09XsAWj-RF9kY4UvBJh_A/videos
+CellStrat - https://www.youtube.com/channel/UCqrJHjXEHEOhK5333IX0ElA/videos
+NLPXing 幸 - https://www.youtube.com/channel/UCuGC1JusVvbOGa__qMtH3QA/videos
+Qwiklabs - https://www.youtube.com/channel/UCgadTofKslPYREQE8TjY7AA
+BigData LDN - https://www.youtube.com/channel/UCFbY6n5Ge7PJ98AtnMcD2eA 
+Global AI community - https://www.youtube.com/channel/UCDVL0bPrZHwCeJrlyy-wxaQ
+Lex Fridman - https://www.youtube.com/user/lexfridman
+Knime https://www.youtube.com/user/KNIMETV/videos
+skyl.ai https://www.youtube.com/channel/UCpXGqU-L8NmlXNZ5fKbCxzg/videos
+W&B - https://www.youtube.com/channel/UCBp3w4DCEC64FZr4k9ROxig/videos
+Jovian.ML - https://www.youtube.com/channel/UCmKaoNn0OvxVAe7f_8sXYNQ/videos
+London ML Meetup - https://www.youtube.com/channel/UCpwC9QC0lWaEJ85MoMRFvrA
+AI Pursuit - https://www.youtube.com/channel/UCe_QLqna7cFtTCfZ0a8pycg/playlists
+Seldon - https://www.youtube.com/channel/UCZq33lhQWAsd-8NDqOdjN_g/videos
+Yannic Kilcher - https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew/videos 
+Henry AI Labs - https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw/videos
+ML Street Talk - https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ/videos
+ML Dojo - https://www.youtube.com/channel/UCXvHuBMbgJw67i5vrMBBobA/videos
+MLOps - https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ/videos
+Edge Intelligence - https://www.youtube.com/channel/UC7GI9yYFIwA66dLKwAxLJEg
+DSF - https://www.youtube.com/channel/UCB02fDSj9GR4rhb1APMNclw/videos
+TinyML - https://www.youtube.com/channel/UC9iWqvsWjhowkHWVJquHwkg/videos
+HuggingFace - https://www.youtube.com/channel/UCHlNU7kIZhRgSbhHvFoy72w/featured
+h20 - https://www.youtube.com/user/0xdata/videos
+Anyscale - https://www.youtube.com/channel/UC7L1tZw52rtgmIB4fr_f40w/videos
+DSF - https://www.youtube.com/channel/UCB02fDSj9GR4rhb1APMNclw/videos
+TwiML - podcast - https://www.youtube.com/channel/UC7kjWIK1H8tfmFlzZO-wHMw/videos
+Chai Time DS Podcast  - https://www.youtube.com/channel/UCRjtBP-o5FbgRzX2BHQEFtQ/videos
+Abhishek Thakur - https://www.youtube.com/user/abhisheksvnit/videos
+KonfHub Tech - https://www.youtube.com/channel/UCN45i8avHdOVqVVJMalx9tQ/videos
+Freecodecamp - https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/videos
+VIT GDG - https://www.youtube.com/channel/UCvT-ZJF7fXHJi9kDeCPR-zg/videos
+Usha Rengaraju/GDG Mysore - https://www.youtube.com/channel/UChr1xW6wSq4sxUgAlgv9PZQ/videos
+AI for Anyone - https://www.youtube.com/channel/UCIpPdErVmb3sfCT6S8U3BwA/videos
+Yves Hilpisch (Python Quants) - https://www.youtube.com/channel/UCSwSD4MeOxb-29ezJi39Xgw/videos 
+2d3d.ai - https://www.youtube.com/channel/UCHObHaxTXKFyI_EI8HiQ5xw/videos
+2 minute papers - https://www.youtube.com/user/keeroyz/videos
+Wildlabs - https://www.youtube.com/channel/UCrxw8iiyFalKHFNAhZYCAYA/videos
+Bhavesh Bhatt - https://www.youtube.com/channel/UC8ofcOdHNINiPrBA9D59Vaw/videos
+Bhavesh Bhatt - https://www.youtube.com/channel/UCo_uTt4go2qs8xOJaUgsiiw/videos
+MLT https://www.youtube.com/channel/UC88RC_4egFjV9jfjBHwDuvg/videos
+Full Stack Deep Learning - https://www.youtube.com/channel/UCVchfoB65aVtQiDITbGq2LQ/videos
+What is AI - https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg/videos
+Colearning Lounge - https://www.youtube.com/c/ColearningLounge/videos
+Zachary Mueller - https://www.youtube.com/channel/UCmKoQOD8uBqsRS8XDdSgrlQ/videos
+Deeplizard - https://www.youtube.com/c/deeplizard/videos
+London Machine Learning Meetup - https://www.youtube.com/channel/UCpwC9QC0lWaEJ85MoMRFvrA/videos
+Deepmind - https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A/videos
+Noah conference - https://www.youtube.com/user/NoahAdvisors/videos
+Deeplearning.ai - https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/videos
+PyTorch - https://www.youtube.com/channel/UCWXI5YeOsh03QvJ59PMaXFw/videos
+Tensorflow - https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ/videos
+AlwaysAI - https://www.youtube.com/channel/UCtOaFDjfZQ_Gqa_MogHDuow/videos
+ECCV - https://www.youtube.com/channel/UCKfreQYtL6GZSj9Zq5FRQGA/videos
+AI Pursuit - https://www.youtube.com/c/AIPursuit/videos
+MBN Solutions - https://www.youtube.com/channel/UC8LpQpJIT39DLDJ9VR0yixg/videos
+Pascal Poupart - https://www.youtube.com/channel/UC7ZVvEo7-B7lA6LY2MVX72A/videos
+RegEx Software - https://www.youtube.com/channel/UCPAgsO-_xsTBslxMBvS5iAQ/videos
+Great Learning - https://www.youtube.com/user/beaconelearning/videos
+Rasa - https://www.youtube.com/channel/UCJ0V6493mLvqdiVwOKWBODQ/videos
+StatQuest - https://www.youtube.com/c/joshstarmer/videos
+nplan/ml paper club - https://www.youtube.com/channel/UCyRXlm2atZrHv9GtKM3kzbQ/videos
+3blue1brown - https://www.youtube.com/c/3blue1brown/videos
+Full Stack Deep Learning - https://www.youtube.com/c/FullStackDeepLearning/playlists
+Twiml community - https://www.youtube.com/channel/UCWtY0NYpa3hXbJprpt1qLbQ/videos
+CrazyMuse - https://www.youtube.com/c/Crazymuse/videos
+Andreas Mueller - https://www.youtube.com/c/AndreasMueller/videos 
+ODSC - https://www.youtube.com/c/OpenDataScienceCon/videos
+VentureBeat - https://www.youtube.com/c/VentureBeat/videos
+Kris Naik - https://www.youtube.com/user/krishnaik06/videos
+iNeuron Intelligence - https://www.youtube.com/channel/UCb1GdqUqArXMQ3RS86lqqOw/videos
+Venelin Valkov - https://www.youtube.com/user/VulkovVenelin/videos
+Daniel Bourke - https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ/videos
+The AI Guy - https://www.youtube.com/channel/UCrydcKaojc44XnuXrfhlV8Q/videos
+Amii Intelligence - https://www.youtube.com/channel/UCxxisInVr7upxv1yUhSgdBA/videos
+MLSS Moscow 2019 - https://www.youtube.com/channel/UCrZIqL5pqD91LgHsk0LAb5Q/playlists
+MLSS Germany 2020 - https://www.youtube.com/channel/UCBOgpkDhQuYeVVjuzS5Wtxw/videos
+ML Learning with Phil - https://www.youtube.com/c/MachineLearningwithPhil/videos
+WiDS Mumbai - https://www.youtube.com/channel/UCHGAwygtFWAonSYfjeUv0iA/videos
+Julia - https://www.youtube.com/c/TheJuliaLanguage/videos
+Digital Cat - https://www.youtube.com/channel/UCJ70w0WzWjWerpk3utRcAKA/videos
+Danny Ma - https://www.youtube.com/c/DannyMa/videos
+Sung Kim https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m 
+Brandon Roher - https://www.youtube.com/c/BrandonRohrer/videos
+Usenix ML - https://www.youtube.com/playlist?list=PLbRoZ5Rrl5lc8bz4EV6_N6kHLGvkl7pOy
+Amazon MLU - https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/playlists
+Smiles ML Summer School Russia- https://www.youtube.com/c/SMILESSummerSchoolofMachineLearningatSK/videos
+Jeremy Howard - https://www.youtube.com/user/howardjeremyp/videos
+Elvis Saravia - https://www.youtube.com/c/OmarSar27/videos
+AMLD - https://www.youtube.com/c/AppliedMachineLearningDays/vidoes 
+NLP with Friends - https://www.youtube.com/channel/UCspapbPlDQn1Tc7Pym2KMTw
+ReinforceConf - https://www.youtube.com/channel/UC2FX7UmiCtIOpWVT7156Gag
+ML TV - https://www.youtube.com/c/MachineLearningTV/videos
+bycloud - https://www.youtube.com/c/bycloudAI/videos
+Sebastian Raschka - https://www.youtube.com/c/SebastianRaschka
+Rework - https://www.youtube.com/c/Re-workCo/videos
+TVAIHub - https://www.youtube.com/channel/UCVlPeQjsKct9bXoC1Qlp1qA/videos 
+Facebook dev circle Moscow - https://youtu.be/nQWNQ258C0Y
+Ritvik - https://www.youtube.com/c/ritvikmath
+OpenMinded - https://www.youtube.com/c/OpenMinedOrg/videos 
+GeeksLesson - https://www.youtube.com/c/GeeksLesson/videos 
+AI Tech North - https://www.youtube.com/channel/UCDMsGkE4ejeakMo7QtJD7Tw/videos
+Databricks - https://www.youtube.com/c/Databricks/videos      https://vimeo.com/databricks
+Spacy/Explosion - https://www.youtube.com/c/ExplosionAI/videos
+fwdays - https://www.youtube.com/user/fwdays/videos
+EdgeDB - https://www.youtube.com/c/EdgeDB/videos 
+ML Trainings- https://www.youtube.com/channel/UCeq6ZIlvC9SVsfhfKnSvM9w/videos 
+ODS.AI  = https://www.youtube.com/channel/UCM9ECBAZtlLeEr-m3ldZ7Tw/playlists 
+UCL AI - https://www.youtube.com/c/UCLCentreforArtificialIntelligence/videos 
+NLP Zurich - https://www.youtube.com/channel/UCLLX-5j9UNYassOwS0nveDQ/videos 
+PyCaret - https://www.youtube.com/channel/UCxA1YTYJ9BEeo50lxyI_B3g
+MadewithML - https://www.youtube.com/c/MadeWithML/videos
+MLConf - https://www.youtube.com/channel/UCjeM1xxYb_37bZfyparLS3Q/videos
+Deepest - https://www.youtube.com/channel/UC5dfn9m310oyt-cbeegfvZw/videos 
+DS Portugal - https://www.youtube.com/channel/UCHh0Dt0uUKKJtdBvgGJB66A
+Artificial Images - https://www.youtube.com/user/bustbright/videos 
+ML4ALL - https://www.youtube.com/c/ML4ALL
+Jeff Heaton - https://www.youtube.com/c/HeatonResearch/videos 
+Analytcsindiamagazine - https://www.youtube.com/c/Analyticsindiamagazine/videos
+WeCNLP - https://www.youtube.com/channel/UCa8JYaJrsUbMO8kWJt2B7LQ/videos
+MLT - https://www.youtube.com/c/MLTOKYO/videos
+Sentdex - https://www.youtube.com/c/sentdex/videos 
+Matroid - https://www.youtube.com/channel/UCR85FcguqcxLQ7XEg1byAtQ/videos
+Deep Learning Indaba - https://www.youtube.com/c/DeepLearningIndaba/videos 
+Code Emporium - https://www.youtube.com/c/CodeEmporium/videos 
+Venelin Valkov - https://www.youtube.com/c/VenelinValkovBG
+Physics meets ML - https://www.youtube.com/channel/UCEugr9SHEXmvG8bg6e3y_bw
+Joel Grus - https://www.youtube.com/c/JoelGrus/videos 
+Gradient Flow - https://www.youtube.com/c/GradientFlow
+ML Conf EU - https://www.youtube.com/watch?v=LAYxunNgYtM&list=PLaveqN3G5iNjGbylnQg6TdbjikufbEV6d 
+Towards Data Science - https://www.youtube.com/c/TowardsDataScience/videos 
+Correlation One - https://vimeo.com/user118829408
+Spark NLP - https://vimeo.com/user113646089 
+Mihaela van der Schaar - https://www.youtube.com/c/vanderSchaarLab/videos 
+Ochieng Grivine (Nairobi) - https://www.youtube.com/channel/UCUS0WnK3cQZlfUC_2-AI8lw/videos 
+Deep Learning at University of Wisconsin-Madison - https://www.youtube.com/channel/UCayl3MLmCHolyDMt43qg3WA/videos
+Microsoft Research - https://youtube.com/user/MicrosoftResearch
+Bugout Dev - https://www.youtube.com/channel/UCLVwTlHSiTl05av2GIDPtvQ/videos 
+Saturn Cloud - https://www.youtube.com/channel/UCADT4bgaV94IVkpABEY7iiA/videos 
+NeuroIPS2020 - https://youtube.com/playlist?list=PL6liSIqFR4BU_48-WkQyUNXnfUvhFmehc
+Abacus AI - https://youtube.com/channel/UCWkeYEk-coq5acIssizfN2Q
+OctoML - https://youtube.com/channel/UCbUrHpUyw2q5s-oe6t8ljnA
+Comarl - https://youtube.com/channel/UCGlIUMgFMYGNKuVyF97ltUQ
+Preserve Knowledge - https://youtube.com/c/PreserveKnowledge
+Machine Learning with Phil - https://youtube.com/c/MachineLearningwithPhil
+CLSP (JHU) - https://www.youtube.com/channel/UCWWiAEF7PMk-OK0-rwGITIg/playlists 
+ACM - https://www.youtube.com/user/TheOfficialACM/playlists 
+ACM RecSys - https://www.youtube.com/channel/UC2nEn-yNA1BtdDNWziphPGA/videos 
+altdeep - https://www.youtube.com/channel/UCopQd3S1UGsEwqs5Dy2kQwg/videos  - https://www.twitch.tv/altdeepai/videos 
+Jay Alammar - https://www.youtube.com/channel/UCmOwsoHty5PrmE-3QhUBfPQ/videos 
+Radical AI - https://youtube.com/channel/UCdZT3AdtIHfM8kX6FFSKkxQ
+Augmented startups - https://youtube.com/channel/UCFJPdVHPZOYhSyxmX_C_Pew
+Dask - https://youtube.com/c/Dask-dev
+Aurelien Geron - https://youtu.be/ErfnhcEV1O8
+Friends of Tracking - https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w/videos 
+Normalised Nerd - https://youtube.com/c/NormalizedNerd
+AI Coffee Break - https://www.youtube.com/c/AICoffeeBreak/videos 
+Robert Monarch(NLP) -https://www.youtube.com/channel/UCjK2LOJJy9gomvzcfUFgdDA/videos 
+Data Professor - https://youtube.com/c/DataProfessor
+Ken Jee - https://youtube.com/c/KenJee1
+Tina Huang - https://youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww
+Code Basics - https://youtube.com/c/codebasics
+Andrew Mo - https://youtube.com/c/AndrewMoMoney
+Nicholas Renotte - https://youtu.be/sNNFEKZhOlA
+Anaconda - https://youtube.com/c/ContinuumIo
+NVIDIA Developer - https://youtube.com/user/NVIDIADeveloper
+SambaNova - https://www.youtube.com/channel/UCuu0tV6DbiI1tYiSsXI_KeA/videos 
+ClearML - https://www.youtube.com/c/ClearML/videos 
+Data Umbrella - https://youtube.com/c/DataUmbrella
+InstaDeep - https://www.youtube.com/channel/UCTEgowmo98A-VI53vwmkmhg/videos 
+Setu Chokshi (Global AI) - https://youtube.com/c/SetuChokshi
+Let’s talk data - https://www.youtube.com/c/TheInformationLabCoUK/featured 
+Data science LA -  https://youtube.com/c/DataScienceLA
+Qubole - https://www.youtube.com/channel/UCdaKBmX6_bDFhsHjec_ovLQ
+Chicago ML - https://youtube.com/channel/UCH99twkwBNwN-IBQjoHwdCQ
+NY AI School - https://www.youtube.com/channel/UCa3zFn8tzw6GaBKZUzifM9A/videos
+Data Festival - https://youtube.com/channel/UCYuxbq0trkgoaoN72eJi8dA
+Matthew Rocklin -  https://youtube.com/c/MatthewRocklin
+RichardOnData - https://youtube.com/c/RichardOnData
+DataPhilly - https://youtube.com/channel/UCvwDejnW-Q49xEb667JqS-g
+Smita Kolan - https://youtube.com/c/SmithaKolan
+AIP Riken - https://www.youtube.com/channel/UCipPccqvcfychKNOaYUokyQ/videos 
+MKAI - https://www.youtube.com/user/rfosterfletcher/videos 
+Richard Foster (MKAI) - https://www.youtube.com/channel/UC62ScVTFf3GpDC5gXDesfEQ/videos 
+Language Technology CMU - https://youtube.com/c/LTIatCMU
+CMU AI - https://www.youtube.com/channel/UCLh3OUmBGe4wPyVZiI771ng/videos 
+San Francisco Bay ACM - https://youtube.com/c/SfbayacmOrg
+ValleML - https://youtube.com/channel/UCY15whY8GyA3DgjZFPdHfAQ
+Data Science Cornwall - https://www.youtube.com/channel/UCMxUmQFr0_dyW8JTLDiOeNQ/videos 
+OMLDS - https://youtube.com/channel/UCoTuN2KVQHpnAOO9nM9354Q
+Hudson & Thames - https://www.youtube.com/channel/UC8hI87gt0dmTAIEupEcsckA/videos 
+Quant Inst - https://www.youtube.com/user/quantinsti/videos 
+Hong Kong ML - https://youtube.com/channel/UCywHr2wSEj3Fl0u81OIzEoQ
+Paris ML - https://youtube.com/user/IgorCarron
+Manual Amunategui - https://youtube.com/playlist?list=PL1bwQOzMbG0s8FEvXJj9IaMZ57bFcK4sf
+Better Data Science - https://youtube.com/channel/UCzwWYDA9IuJ7iFrvbZsvRwQ
+Graph Neural Networks - https://youtube.com/channel/UCnmuSDY1pTlaFH1WRQElfTg
+AI3SD - https://www.youtube.com/channel/UCXOkV943dmo6rSiVlo7lsBw 
+The data incubator - https://youtube.com/c/TheDataIncubatorVideos
+Faculty - https://www.youtube.com/channel/UCaiUkj_9GAncPqJxvbBUkWA/videos 
+Jina AI - https://www.youtube.com/c/JinaAI/videos 
+Data Umbrella - https://youtube.com/c/DataUmbrella
+DVC Org - https://youtube.com/channel/UC37rp97Go-xIX3aNFVHhXfQ
+Zed statistics - https://youtube.com/c/zedstatistics
+UK Data Service - https://www.youtube.com/user/UKDATASERVICE/videos 
+AI 4 Good - https://youtube.com/c/AIforGood
+Mrs Taylors Math - https://youtube.com/channel/UCvsgQp-CBn7qzjk6c4Pwoig
+Data Works MD - https://youtube.com/c/DataWorksMD
+Expert AI - https://youtube.com/c/expertai
+Story By Data - https://youtube.com/channel/UCU9GTVEPqlSNRDHypVf3BRw
+QuantUniversity - https://www.youtube.com/channel/UCRlFeeFaSk7JiCSBYcFffGQ/videos  
+Daytum - https://www.youtube.com/channel/UCzXrjXfB1eSUNuw1O_GtFyQ/videos 
+London Business Analytics - https://www.youtube.com/c/LondonBusinessAnalyticsGroup/videos 
+Data Vault - https://youtube.com/channel/UCdhSsZWTwkX1-v8EX84WLYg
+BigNumber - https://youtube.com/c/BigNumber
+DataTalks.Club - https://youtube.com/channel/UCDvErgK0j5ur3aLgn6U-LqQ
+Locally Optimistic - https://youtube.com/channel/UC13e1OgG_dOE3BI481swWPg
+Data Natives - https://www.youtube.com/channel/UC8x0-23MLoRgs5ee4uias4w/videos 
+GeoStatsGuy - https://youtube.com/c/GeostatsGuyLectures
+Steve Brunton - https://youtube.com/c/Eigensteve
+BlazingSQL - https://www.youtube.com/channel/UCjxMdJuZ6d-c-X6xiWpN1eg/videos
+Ben Lambert - https://youtube.com/user/SpartacanUsuals
+Brady Neal Causal Inference - https://www.youtube.com/c/BradyNealCausalInference/videos 
+Xanadu - https://youtube.com/c/XanaduAI
+BigML - https://www.youtube.com/user/bigmlcom/videos 
+DataCouncil - https://www.youtube.com/c/DataCouncil/videos 
+TFUG India - https://www.youtube.com/c/TFUGIndia/videos 
+Online Causal Inference - https://youtube.com/channel/UCiiOj5GSES6uw21kfXnxj3A
+Peter Velickovik - https://youtu.be/uF53xsT7mjc
+Jean Golding Institute (Bristol) - https://www.youtube.com/channel/UCNYDS8tsCxZT0dYShMASPMg/videos
+Graph Neural Networks UG - https://youtube.com/channel/UCnmuSDY1pTlaFH1WRQElfTg
+ClarifyAI - https://youtube.com/channel/UCGmfV4cQHwk6qCnLEYfgzIA
+Data Talks - https://youtube.com/c/DataTalks
+Inference Podcast - https://www.youtube.com/channel/UCU-KsNFmnZ_v3RZ7MKvCzDg/featured
+BigNumber - https://www.youtube.com/c/BigNumber/videos
+San Diego ML (Ryan Chester) - https://youtube.com/c/ITConnected
+Full Stack Deep learning - https://youtube.com/c/FullStackDeepLearning
+Are you a robot - https://youtube.com/channel/UCzGSxIDNn8y856c6b2DkOOg
+Data Science Festival - https://www.youtube.com/c/DataScienceFestival/videos 
+ACM IKDD - https://youtube.com/channel/UCKSVa5Qf5xt1uFVsAPLAlcQ
+John Snow Labs - https://www.youtube.com/channel/UCmFOjlpYEhxf_wJUDuz6xxQ 
+AI Guild - https://youtube.com/channel/UCTOUs2QL5qEnh_Y10Y4lhEw
+PRAIRIE - https://www.youtube.com/channel/UCckAS10l0cnVW9s9_ZWv8NQ/videos 
+AI Pathshala (Data Science Nasscom)- https://www.youtube.com/channel/UCrzoexW3ynjSHsyLN6nRIPw/videos
+Artificial Images - https://www.youtube.com/user/bustbright/videos 
+Stylianos Kampakis - https://youtube.com/channel/UClyTBR1b0ZEcZgWEhFf2POg
+Seattle data guy - https://youtube.com/channel/UCmLGJ3VYBcfRaWbP6JLJcpA 
+Inference podcast - https://youtube.com/channel/UCU-KsNFmnZ_v3RZ7MKvCzDg
+Jupyter/ipython - https://youtube.com/c/ipython
+Open Data Cube - https://www.youtube.com/channel/UCZcdqejeGkDBK2nP-9TWshw/videos
+Neuralmagic - https://www.youtube.com/channel/UCo8dO_WMGYbWCRnj_Dxr4EA/videos 
+Data School - https://www.youtube.com/c/dataschool/videos
+Pieter Abbeel - https://www.youtube.com/c/PieterAbbeel/videos 
+Vision & Graphics MIT - https://youtube.com/channel/UCLMiFkFyfcNnZs6iwYLPI9g
+Mirco Ravanelli - https://youtube.com/channel/UCuILYomPibJ9KW1s2iLLQgg

@@ -2,6 +2,13 @@ import sys
 import shutil
 import os
 
+st.markdown(
+    """
+| Col1      | Col2        |
+| --------- | ----------- |
+| Some      | Data        |
+"""
+)
 
 total, used, free = shutil.disk_usage("/")
 

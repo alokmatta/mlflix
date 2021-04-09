@@ -27,13 +27,21 @@ col1, col2 = st.beta_columns(2)
 #col1.subheader('Col1')
 #col1.subheader('Col2')
 
+                
 names = df_all["snippet.channelTitle"].unique()
 
 for name in random.sample(list(names), 5):
     with st.beta_expander(name):
         df = df_all[df_all["snippet.channelTitle"]==name]
         df.reset_index(inplace=True)
+        header =    """
+                    |   Image        | Description |
+                    | --------- | ----------- |
+                    """
+
+        rows = ""
         for i in range(0,len(df)):
+  
             url = df["snippet.thumbnails.medium.url"][i]
             image_base64 = base64.b64encode(urlopen(url).read()).decode('utf-8')
 
@@ -43,16 +51,17 @@ for name in random.sample(list(names), 5):
             description = df["snippet.description"][i]
         
             if(len(str(description))>3):
-                print("came here")
-                print(type(description))
-                print(len(str(description)))
+                #print(len(str(description)))
                 split = " "
                 des_list= description.split(split)
-                if(len(des_list)>20):
-                  description= split.join(des_list[0:13])
+                if(len(des_list)>200):
+                  description= split.join(des_list[0:200])
             elif(np.isnan(float(description))):
                 description = ""
             
             link = url = "http://www.youtube.com/watch?v="+df["id.videoId"][i]
-            html = f"<a href='{link}'><img src='data:image/png;base64,{image_base64}'></a>{description}"
-            st.markdown(html, unsafe_allow_html=True)
+            image = f"<a href='{link}' target=”_blank”><img src='data:image/png;base64,{image_base64}'></a>"
+            description = f"<a href='{link}' target=”_blank”>{description}</a>"
+            rows += f"| {image}      |    {description}   |\n"
+        html = header + rows
+        st.markdown(html, unsafe_allow_html=True)

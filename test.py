@@ -1,7 +1,7 @@
 import sys
 import shutil
 import os
-import st
+import streamlit as st
 
 st.markdown(
     """

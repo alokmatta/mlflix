@@ -4,36 +4,35 @@ PyData MCR - https://www.youtube.com/channel/UCTCV2vonJgaQVb8AdMgdvCA/videos
 PyData DC (MetroStar systems)- https://youtube.com/user/metrostarsystems
 PyData Pune - https://www.youtube.com/channel/UCEnagt088yX-ruTalg-GJeQ/videos 
 Cory Schafer - https://www.youtube.com/c/Coreyms/videos
-Talk Python to me - https://www.youtube.com/c/Talkpythontomepodcast/videos
-Pycon Sweden - https://www.youtube.com/c/PyConSweden/videos 
+Talk Python to me - https://www.youtube.com/channel/UCKPSmMfDsXTKrCZApukcJ7A/videos
+Pycon Sweden - https://www.youtube.com/channel/UCH_2cuWzFMyCPvm75lJJ6wg/videos
 Cheukting Ho - https://www.youtube.com/channel/UCie_J9IohYO4hSsz4O2mDfQ/videos
 Python Engineer - https://www.youtube.com/c/PythonEngineer/videos
 Python Programmer - https://www.youtube.com/c/FlickThrough/videos
-Python Talks - https://www.youtube.com/c/Talkpythontomepodcast/videos
+Python Talks - https://www.youtube.com/channel/UCKPSmMfDsXTKrCZApukcJ7A/videos
 Python basics - https://www.youtube.com/c/PythonBasics/videos
 EuroPython - https://www.youtube.com/user/PythonItalia/playlists
-Europython conference - https://www.youtube.com/c/EuroPythonConference/playlists 
-EuroPython 2020 - https://www.youtube.com/watch?v=RVK7rsFEfpc&list=PL8uoeex94UhG33fVP7GZEo06gOHlhb0hk
+Europython conference - https://www.youtube.com/channel/UC98CzaYuFNAA_gOINFB0e4Q
 Scipy 2020 - https://www.youtube.com/user/EnthoughtMedia/playlists
 PyCon 2015- https://www.youtube.com/c/pycon2015 
 PyCon 2016 - https://www.youtube.com/c/pycon2016 
 PyCon 2017 - https://www.youtube.com/c/pycon2017/videos
-pyCon 2018 - https://www.youtube.com/c/PyCon2018 
+pyCon 2018 - https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ
 PyCon 2019 - https://www.youtube.com/c/PyCon2019 
 PyCon 2020 - https://www.youtube.com/c/PyCon2020/videos
-PyCon UK - https://www.youtube.com/c/PyconUKSoc/videos 
+PyCon UK - hhttps://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog/videos
 PyOhio - https://www.youtube.com/c/PyOhio/videos
 PyConAU - https://www.youtube.com/c/PyConAU/playlists
 PyLondinium - https://www.youtube.com/channel/UCHh7vOesookNhYvupCCcJxA/videos
-PyBay/SFPython - https://www.youtube.com/c/SFPython/videos  
-Python Barcelona - https://youtube.com/c/PythonBarcelona
+PyBay/SFPython - https://www.youtube.com/channel/UC51aOZF5nnderbuar5D5ifw/videos
+Python Barcelona - https://www.youtube.com/channel/UCEhI2CfdT5--TYq47K4en4A
 PyConDE - https://youtube.com/c/PyConDE
-Sebastian Mathot - https://youtube.com/c/SebastiaanMath%C3%B4t
+Sebastian Mathot - https://www.youtube.com/channel/UC6HfeAa0vWeSWS6IcNAjZ2A
 PyCascades - https://youtube.com/c/PyCascades
 Real Python - https://youtube.com/c/realpython
 Julia Language - https://youtube.com/c/TheJuliaLanguage
-Remi Vezy - https://www.youtube.com/c/remivezy/videos
-Alfredo Canziani - NYU - https://www.youtube.com/c/AlfredoCanziani/videos
+Remi Vezy - https://www.youtube.com/channel/UCxArXLI-gxlTmWGGgec5D7w/videos
+Alfredo Canziani - NYU - https://www.youtube.com/channel/UCupQLyNchb9-2Z5lmUOIijw/videos
 Stanford NLP https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 Siggraph now - https://www.youtube.com/watch?v=gfY2LfRfE1E&list=PLUPhVMQuDB_b2kcOooEduedthcBH53mvC
 Deepmind UCL - https://www.youtube.com/watch?v=7R52wiUgxZI&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF

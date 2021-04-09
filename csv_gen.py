@@ -5,12 +5,6 @@ import os
 
 yt_key = os.environ["YT_KEY"]
 
-#url = "https://www.googleapis.com/youtube/v3/channels?forUsername="+forUsername+"&key="+yt_key
-#forUsername = "PyDataTV"
-#from urllib.request import urlopen
-#json_str = urlopen(url).read()
-#channel_id=json.loads(json_str)["items"][0]["id"]
-
 df_channels = pd.read_csv("channels.csv")
 
 df_list = []

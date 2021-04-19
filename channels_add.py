@@ -30,13 +30,13 @@ df["type"] = df.url.apply(url_type)
 
 
 df = df[df["url"].str.contains("youtube.com")]
-df = df[~df["url"].str.contains("playlist")]
+df = df[~df["url"].str.contains("playlist\?list")]
 df = df[~df["url"].str.contains("watch")]
 df.reset_index(inplace=True)
 
 df.to_csv("links.csv", index=False)
 
-for i in range(40, 50):
+for i in range(130, 140):
     print(df.url[i])
     url_list = df.url[i].split("/")
     print(url_list)

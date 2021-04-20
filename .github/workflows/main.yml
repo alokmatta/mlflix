@@ -27,6 +27,7 @@ jobs:
       - name: Run a multi-line script
         env:
           YT_KEY: ${{ secrets.YT_KEY }}
+          YT_KEY2: ${{ secrets.YT_KEY2 }}
         run: |
           pip install pandas
           python csv_gen.py

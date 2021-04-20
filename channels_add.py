@@ -36,10 +36,11 @@ df.reset_index(inplace=True)
 
 df.to_csv("links.csv", index=False)
 
-for i in range(130, 140):
+for i in range(288, 289):
     print(df.url[i])
     url_list = df.url[i].split("/")
     print(url_list)
+    channel_id = None
     if df.type[i] == "user":
         name = url_list[url_list.index("user")+1]
         url = "https://www.googleapis.com/youtube/v3/channels?forUsername="+name+"&key="+yt_key
@@ -57,7 +58,7 @@ for i in range(130, 140):
             channel_id = json.loads(json_str)["items"][0]["id"]["channelId"]
             name = json.loads(json_str)["items"][0]["snippet"]["channelTitle"]
         else:
-            print(f"custom user {name} has no channels")
+            print(f"custom channel {name} has no channels")
     elif df.type[i] == "channel":
         channel_id = url_list[url_list.index("channel")+1]
         text_list = df.text[i].split("-")

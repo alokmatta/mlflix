@@ -12,7 +12,7 @@ df_channels = pd.read_csv("channels.csv")
 df_list = []
 
 #for i in range(0,len(df_channels)):
-for i in range(0,10):
+for i in range(0,100):
 
     if i%2:
         yt_key = yt_key2
@@ -29,4 +29,4 @@ for i in range(0,10):
     df_list.append(pd.json_normalize(json.loads(json_str)["items"]))
 
 df = pd.concat(df_list)
-#df.to_csv("videos.csv")
+df.to_csv("videos.csv")

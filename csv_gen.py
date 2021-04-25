@@ -3,7 +3,7 @@ import json
 import os
 
 
-yt_key = os.environ["YT_KEY"]
+yt_key1 = os.environ["YT_KEY"]
 
 yt_key2 = os.environ["YT_KEY2"]
 
@@ -18,6 +18,7 @@ for i in range(0,100):
         yt_key = yt_key2
         key_str = "Key2"
     else:
+        yt_key = yt_key1
         key_str = "Key1"
 
     url = "https://www.googleapis.com/youtube/v3/search?key="+yt_key + \

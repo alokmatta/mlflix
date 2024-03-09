@@ -32,7 +32,7 @@ col1, col2 = st.columns(2)
 names = df_all["snippet.channelTitle"].unique()
 
 for name in random.sample(list(names), 5):
-    with st.beta_expander(name):
+    with st.expander(name):
         df = df_all[df_all["snippet.channelTitle"]==name]
         df.reset_index(inplace=True)
         header =    """

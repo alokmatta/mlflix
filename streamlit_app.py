@@ -21,7 +21,7 @@ st.set_page_config(
 
 df_all = pd.read_csv("videos.csv")
 
-st.beta_container()
+st.container()
 
 col1, col2 = st.beta_columns(2)
 #col1.subheader('Col1')

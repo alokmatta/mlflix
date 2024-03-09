@@ -23,7 +23,7 @@ df_all = pd.read_csv("videos.csv")
 
 st.container()
 
-col1, col2 = st.beta_columns(2)
+col1, col2 = st.columns(2)
 #col1.subheader('Col1')
 #col1.subheader('Col2')
 
